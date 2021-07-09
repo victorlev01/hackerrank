@@ -1,6 +1,6 @@
 'use strict';
 /*
-I selected NodeJs as my language of choice, task is to total goals scored by the winner of football match
+I selected NodeJs as my language of choice, task is to return total goals scored by the winner of football competition
 we have competition name and year as input parameters.
 */
 const fs = require('fs');
